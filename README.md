@@ -42,7 +42,7 @@ I'm currently diving deeper into Data Mining, Text Mining, and Natural Language 
 I'm interested in exploring opportunities to apply my expertise in AI, Big Data, and Cloud technologies to solve real-world problems and contribute to innovative projects.
 
 ## 📫 How to Reach Me
-Feel free to reach out to me via email at fshaik8@uic.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/firoz-shaik/)!
+Feel free to reach out to me via email at fshaik8@uic.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/firoz-shaik-data)!
 
 ## 😄 Pronouns
 He/Him
